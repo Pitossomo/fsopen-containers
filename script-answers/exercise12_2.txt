@@ -1,0 +1,13 @@
+Script started on 2022-06-26 03:35:28-03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="102" LINES="46"]
+]0;pitossomo@DESKTOP-LJ1ILKC: ~/fsopen22-docker/part12-containers-applications[01;32mpitossomo@DESKTOP-LJ1ILKC[00m:[01;34m~/fsopen22-docker/part12-containers-applications[00m$ exitdocker run -it ubuntu bash [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker run -it ubuntu bash [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kh
+[?2004h]0;root@1e0ee9260a37: /root@1e0ee9260a37:/# [K]0;root@1e0ee9260a37: /root@1e0ee9260a37:/# mkdir s usr/src/app
+[?2004l[?2004h]0;root@1e0ee9260a37: /root@1e0ee9260a37:/# touch usr/src/app/index.js
+[?2004l[?2004h]0;root@1e0ee9260a37: /root@1e0ee9260a37:/# [Kdir usr/src/app/
+[?2004lindex.js
+[?2004h]0;root@1e0ee9260a37: /root@1e0ee9260a37:/# exit
+[?2004lexit
+]0;pitossomo@DESKTOP-LJ1ILKC: ~/fsopen22-docker/part12-containers-applications[01;32mpitossomo@DESKTOP-LJ1ILKC[00m:[01;34m~/fsopen22-docker/part12-containers-applications[00m$ exit
+exit
+
+Script done on 2022-06-26 03:36:24-03:00 [COMMAND_EXIT_CODE="0"]
