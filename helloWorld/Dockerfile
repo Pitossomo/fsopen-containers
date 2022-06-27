@@ -2,6 +2,12 @@ FROM node:16
 
 WORKDIR /usr/src/app
 
-COPY . .
+COPY --chown=node:node . .
 
-CMD DEBUG=helloWorld:* npm start
+RUN npm ci --only=production
+
+ENV DEBUG=helloWorld:*
+
+USER node
+
+CMD npm start
